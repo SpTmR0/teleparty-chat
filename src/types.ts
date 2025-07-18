@@ -1,4 +1,3 @@
-// Types based on Teleparty documentation
 export interface SendMessageData {
   body: string;
 }
